@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherAppMVP</string>
+
+    <string name="API_KEY">d024542b5464c7b14fc7c8b7a5603f7a</string>
+    <string name="invalid_city_data">Invalid city</string>
+    <string name="show_weather">Show weather</string>
+    <string name="please_wait">Please wait...</string>
+</resources>
